@@ -19,6 +19,6 @@
     "coffee-script": "^1.7.1",
     "q": "^1.0.1",
     "chai": "^1.9.1"
-  }
+  },
   "files": ["bddRetryInterface.coffee", "index.coffee", "retryHook.coffee", "retrySuite.coffee", "retryTest.coffee"]
 }
