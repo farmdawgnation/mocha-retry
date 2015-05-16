@@ -1,6 +1,5 @@
 node_modules
 azure_error
-*.js
 *.map
 *.password
 *.css
